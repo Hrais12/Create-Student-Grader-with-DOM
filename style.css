@@ -1,0 +1,15 @@
+.titlebox{
+    display:flex;
+    justify-content: space-between;
+}
+.studentContainer{
+    border:solid black;
+    padding:1em;
+
+}
+.studentButton{
+    margin-bottom: 10px;
+}
+.inputButton{
+    margin-top: 10px ;
+}
